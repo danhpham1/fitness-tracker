@@ -88,6 +88,7 @@
               "src/assets"
             ],
             "styles": [
+              "./node_modules/@angular/material/prebuilt-themes/indigo-pink.css",
               "src/styles.css"
             ],
             "scripts": []
@@ -119,6 +120,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "fitness-tracker"
+    }
+  },
+  "defaultProject": "fitness-tracker",
+  "cli": {
+    "analytics": "a923fcad-398e-4343-9d06-3af75eacd615"
+  }
 }
